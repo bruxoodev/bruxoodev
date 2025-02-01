@@ -20,8 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruxoodev&show_icons=true&title_color=ff0000&text_color=8c0303&bg_color=640202&locale=en" alt="bruxoodev" /></p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
