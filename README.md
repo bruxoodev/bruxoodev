@@ -1,5 +1,5 @@
 <h1 align="center">Óla 👋, Eu sou Victor Hugo de Andrade (Bruxodev)</h1>
-<h3 align="center">🔍 Estou mergulhando no universo de Análise e Desenvolvimento de Sistemas, com foco em Full Stack Java. Neste repositório, compartilho meus estudos e projetos práticos, explorando tanto o backend quanto o frontend, e buscando sempre aprimorar minhas habilidades em arquitetura de software e boas práticas de desenvolvimento. Discord: bruxowt</h3>
+<h3 align="center">🔍 Estou mergulhando no universo de Análise e Desenvolvimento de Sistemas, com foco em Full Stack Back-End Neste repositório, compartilho meus estudos e projetos práticos, explorando tanto o backend quanto o frontend, e buscando sempre aprimorar minhas habilidades em arquitetura de software e boas práticas de desenvolvimento. Discord: bruxowt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruxoodev&label=Profile%20views&color=ab0303&style=flat" alt="bruxoodev" /> </p>
 
